@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Olá! Eu sou a Ana Paula</h1>
+<h1>👋 Olá! Me chamo Ana Paula</h1>
 
 <p>
 💻 Estudante de Ciência da Computação e apaixonada por tecnologia.
